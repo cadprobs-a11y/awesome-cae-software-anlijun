@@ -28,6 +28,7 @@
 | [OpenJSCAD](https://github.com/jscad/OpenJSCAD.org) | Javascript | 开源 | JSCAD 是一组模块化的、基于浏览器和命令行的开源工具，用于使用JavaScript代码创建参数化的2D和3D设计。它为生成3D模型提供了一种快速、精确且可重复的方法，特别适用于3D打印应用。 |
 | [pythonocc](https://github.com/tpaviot/pythonocc) | Python | 开源 | pythonocc 是一个基于OpenCascade技术建模内核的Python库，提供用于CAD、PDM、PLM和BIM开发的3D建模和数据交换功能，支持全面访问OpenCascade的C++类，在各种Python GUI框架、网页浏览器和Jupyter笔记本中进行3D可视化，并支持常见的数据交换格式如IGES、STEP、STL、PLY、OBJ和GLTF。 |
 | [Fornjot](https://github.com/hannobraun/Fornjot) | Rust | 开源 | Fornjot 是一个早期阶段的CAD内核，使用Rust编写，专注于3D打印和机械加工等机械CAD应用，优先考虑可靠性、适合代码优先建模的友好API，并支持第三方扩展，仍在积极开发中。 |
+| [CADProps](https://www.cadprops.com/tools/step-viewer/) | Web | 托管服务（非开源） | 基于浏览器的 STEP/STP 查看与检查工具。访客无需账号即可查看和测量；文件在 CADProps 服务器处理。转换、账号保存和创建分享需要登录。由 CADProps 项目自行提交，不是独立评价。 |
 
 ---
 
